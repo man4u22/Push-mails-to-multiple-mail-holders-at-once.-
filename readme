@@ -1,0 +1,4 @@
+note:
+*utilize the twilio send grid to create a api key.
+*then fetch the dataset to people you need to send the messages.
+*download base64 for pdf to be encoded and then to be sent.
