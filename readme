@@ -1,4 +1,8 @@
 note:
-*utilize the twilio send grid to create a api key.
-*then fetch the dataset to people you need to send the messages.
+*for best performance and to avoid Spam use google API to send mails 
+*make sure to create account in google cloud then click on
+*API/security you can find on left corner of the page inside the toogle
+*then click on create oauth then after giving your mail and project name.
+*Later it will ask to create OAuth client ID after that your setup is done.
+*fetch the dataset to people you need to send the messages.
 *download base64 for pdf to be encoded then utilize basic command to send.
